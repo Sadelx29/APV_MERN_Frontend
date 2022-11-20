@@ -48,7 +48,7 @@ export const ConfirmarCuenta = () => {
     <>
       <div>
         <h1 className='text-indigo-600 font-black text-6xl'>Confirma  tu Cuenta y Aministra tus{""}
-          <span className='text-black'> Pacientes</span></h1>
+          <span className='text-black'> Pacientes.</span></h1>
         </div>
 
 
